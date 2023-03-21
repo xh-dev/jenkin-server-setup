@@ -1,0 +1,5 @@
+fresh-server:
+  hosts:
+    server01:
+      ansible_host: {server-ip}
+      ansible_user: {ssh user}
