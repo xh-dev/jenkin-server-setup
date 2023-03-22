@@ -2,4 +2,4 @@ fresh-server:
   hosts:
     server01:
       ansible_host: {server-ip}
-      ansible_user: {ssh user}
+      ansible_user: {ssh-user}
